@@ -4,9 +4,18 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 
 void main() {
+
 // GoRouter router=;
   runApp(const DocApp());
   
+
+  //dfdf
+  runApp(const MyApp());
+}
+
+class MyApp extends StatelessWidget {
+  const MyApp({super.key});
+
 
 }
 
