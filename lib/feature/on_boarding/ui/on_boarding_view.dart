@@ -27,7 +27,7 @@ class OnBoardingView extends StatelessWidget {
                   children: [
                     Text(
                       'Manage and schedule all of your medical appointments easily with Docdoc to get a new experience.',
-                      style: TextStyles.style13GrayRegular,
+                      style: TextStyles.style16GrayRegular,
                     ),
                     SizedBox(
                       height: 24.h,
