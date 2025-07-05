@@ -1,4 +1,3 @@
-import 'package:checkout_doctor_app/core/networking/api_result.dart';
 import 'package:checkout_doctor_app/feature/auth/login/data/models/login_request_body.dart';
 import 'package:checkout_doctor_app/feature/auth/login/data/repo/login_repo.dart';
 import 'package:checkout_doctor_app/feature/auth/login/logic/login_cubit/login_state.dart';

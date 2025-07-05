@@ -1,9 +1,9 @@
-import 'package:checkout_doctor_app/core/helpers/app_regex.dart';
+//import 'package:checkout_doctor_app/core/helpers/app_regex.dart';
 import 'package:checkout_doctor_app/core/routing/my_routes.dart';
 import 'package:checkout_doctor_app/core/themeing/colors.dart';
 import 'package:checkout_doctor_app/core/themeing/text_styles.dart';
 import 'package:checkout_doctor_app/core/widgets/app_button.dart';
-import 'package:checkout_doctor_app/core/widgets/app_text_field.dart';
+//import 'package:checkout_doctor_app/core/widgets/app_text_field.dart';
 import 'package:checkout_doctor_app/feature/auth/signup/logic/sign_up_cubit/sign_up_cubit.dart';
 import 'package:checkout_doctor_app/feature/auth/signup/logic/sign_up_cubit/sign_up_state.dart';
 import 'package:checkout_doctor_app/feature/auth/signup/presentation/widgets/signup_form.dart';
